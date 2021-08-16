@@ -1,4 +1,5 @@
 Hi, read this carefully.
+
 Please don't use Free Code Byte logo, banner & watermark,
 my some projects are open-source & some are closed-source.
 You can modify, publish my open-source projects for
