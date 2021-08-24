@@ -3,11 +3,11 @@ Hi, read this carefully.
 You can use my Logo, Banner & Watermark for free without any copyrgiht issues.
 You can upload my YouTube video's on your YouTube channel, you can Monetise them
 too. My all projects are open-source, feel free to modify & publish them.
-You can edit my Website too, but please don't modify the original files from this
+You can edit my Website under MIT License, but please don't modify the original files from this
 repository. You can clone this repository first then start modifying files, but
 please don't edit the original one.
 
 Thanks for reading this, Have a good day.
 
-- Last updated 17/8/2021
+- Last updated 24/8/2021
 - Free Code Byte
